@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Autos</string>
+    <string name="app_register"><u>Try This Way</u></string>
+    <string name="app_login"><u>Log in here</u></string>
+    <string name="app_terms"><u>Our Terms and conditions</u></string>
+    <string name="app_resend"><u>Resend</u></string>
+
+</resources>
